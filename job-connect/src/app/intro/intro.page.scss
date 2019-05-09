@@ -1,0 +1,54 @@
+ion-slide {
+    height: 100vh;
+    flex-direction: column;
+    
+    
+}
+
+ion-img {
+    max-width: 50vw;
+    max-height: 50vh;
+    overflow: hidden;
+}
+
+
+.step-one {
+    background: var(--ion-color-primary);
+    color: var(--ion-color-primary-contrast);
+    text-align: center;
+    font-size: x-small;
+    max-width: 100vw;
+    max-height: 100vh;
+    
+}
+
+.step-two {
+    background: var(--ion-color-primary);
+    color: var(--ion-color-primary-contrast);
+    text-align: center;
+    font-size: x-small;
+    
+    max-height: 100vh;
+    
+}
+
+
+.step-three {
+    background: var(--ion-color-primary);
+    color: var(--ion-color-primary-contrast);
+    text-align: center;
+    font-size:x-small;
+    
+    max-height: 100vh;
+    
+}
+
+.step-four {
+    background: var(--ion-color-primary);
+    color: var(--ion-color-primary-contrast);
+    text-align: center;
+    font-size: x-small;
+
+    max-height: 100vh;
+    
+}
