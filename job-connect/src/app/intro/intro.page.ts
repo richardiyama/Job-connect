@@ -16,7 +16,7 @@ export class IntroPage implements OnInit {
 
   async finish() {
     await this.storage.set('tutorialComplete', true);
-    this.router.navigateByUrl('/');
+    this.router.navigateByUrl('/login');
   }
 
 }
